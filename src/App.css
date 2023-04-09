@@ -1,0 +1,15 @@
+.card {
+  min-width: 30rem;
+  /* max-width: 30rem; */
+}
+
+.charts {
+  min-width: 30rem;
+  max-width: 30rem;
+}
+
+/* .quote-image {
+  max-width: 200px;
+  min-width: 200px;
+  height: auto;
+} */
